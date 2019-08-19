@@ -23,7 +23,7 @@
     name: 'HelloWorld',
     data() {
       return {
-        yourName: '',
+        yourName: 'IBMer',
         visible: false,
       };
     },
